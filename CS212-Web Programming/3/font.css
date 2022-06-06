@@ -1,0 +1,13 @@
+@font-face {
+font-family: "SansForgetica";
+src: url("SansForgetica-Regular.eot");
+src: url("SansForgetica-Regular.woff") format("woff"),
+url("SansForgetica-Regular.otf") format("opentype"),
+url("SansForgetica-Regular.svg#filename") format("svg");
+}
+
+p {
+font-family: 'SansForgetica', Arial, sans-serif;
+font-weight:normal;
+font-style:normal;
+}
