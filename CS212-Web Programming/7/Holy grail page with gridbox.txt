@@ -1,0 +1,1 @@
+This page needed an header, footer, a menu on the left, an AD on the right and some js content in the middle that is interactive.
